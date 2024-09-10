@@ -1,8 +1,8 @@
 # 💫 About Me:
 <div align="center">
-    <h1>I am Khalid <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" style="vertical-align: middle;"/></h1>
-    <h3>Results-driven Senior Cloud/DevOps Engineer with a strong cybersecurity background, specializing in designing and managing complex infrastructures. I excel at automating deployment processes, ensuring high availability, and implementing robust CI/CD pipelines.</h3>
-<div align="Left">
+    <h1>I am Khalid <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" style="vertical-align: middle;"/></h1></div>
+    <div align="Left"><h3>Results-driven Senior Cloud/DevOps Engineer with a strong cybersecurity background, specializing in designing and managing complex infrastructures. I excel at automating deployment processes, ensuring high availability, and implementing robust CI/CD pipelines.</h3>
+
 Key Strengths:
 
  - Cloud & DevOps: Expert in Terraform, AWS CloudFormation, and cloud infrastructure management
@@ -10,17 +10,17 @@ Key Strengths:
  - Cybersecurity: Skilled in vulnerability assessments, STIGs, and security tools (Nessus, MS Defender, Wazuh)
  - Containerization: Experienced with Docker, Kubernetes, and AWS EKS
  - Automation: Advanced scripting (PowerShell, Bash) and configuration management (Ansible, Puppet, Chef)
-</div>
+
 <h3>Multilingual (English, French, Arabic) and adept at remote work, I'm passionate about driving innovation in cloud technology and cybersecurity. Let's connect and explore how we can achieve outstanding results together!</h3>
 </div>
 
-- 🔭 I’m currently working at [Booz Allen Hamilton](https://www.boozallen.com/) as a DevSecOps professional.
+<!--- 🔭 I’m currently working at [Booz Allen Hamilton](https://www.boozallen.com/) as a DevSecOps professional.
 - 🛠️ I specialize in **Security Architecture**, **Automated Security Testing**, and **Vulnerability Management**.
-<!-- - 💼 Check out my professional journey on [LinkedIn](https://www.linkedin.com/in/khalid-houbate/).
+ - 💼 Check out my professional journey on [LinkedIn](https://www.linkedin.com/in/khalid-houbate/).
 - 📝 I occasionally share insights and write-ups on CTFs at [GitBook](https://sumanroy.gitbook.io/).
 - 💬 Ask me anything about **Hacking, Cybersecurity, or Motivation**—I'm here to help!
-- 📫 Connect with me on [Instagram](https://www.instagram.com/safianikhalid/). -->
-- 📝 I’m passionate about continuous learning and sharing knowledge with the community.
+- 📫 Connect with me on [Instagram](https://www.instagram.com/safianikhalid/). 
+- 📝 I’m passionate about continuous learning and sharing knowledge with the community.-->
 
 
 ## 🌐 Socials:
